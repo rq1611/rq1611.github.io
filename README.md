@@ -7,3 +7,6 @@
 5. Logo HTML - pngegg.com
 6. Logo Web - chatgpt.com (generate)
 7. Font - Google Fonts
+8. Logo paskibra - https://paskibrabandung.id/
+9. background - freepik.com
+10. project - buatan sendiri
